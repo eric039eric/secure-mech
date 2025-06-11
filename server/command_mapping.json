@@ -1,0 +1,25 @@
+{
+    "start_rotation":{
+        "description": "啟動平台順時針旋轉",
+        "rpm": 30,
+        "direction": "CW"
+    },
+    "stop_rotation": {
+        "description": "停止平台旋轉",
+        "rpm": 0,
+        "direction": "NONE"
+    },
+    "reverse_rotation": {
+        "description": "啟動平台逆時針旋轉",
+        "rpm": 30,
+        "direction": "CCW"
+    },
+    "set_speed_60": {
+        "description": "設定目前轉速為 60 rpm",
+        "rpm": 60
+    },
+    "emergency_shutdown": {
+        "description": "緊急停止，所有模擬裝置停機",
+        "shutdown": true
+    }
+}
