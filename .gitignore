@@ -1,0 +1,32 @@
+# Python compiled/interpreted files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# System / IDE settings
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# VSCode settings (if you use it)
+.vscode/
+
+# Log or temp files
+*.log
+*.tmp
+
+# Backup files
+*~
+
+# Ignore token or secret files (just in case)
+*.env
+secrets.json
