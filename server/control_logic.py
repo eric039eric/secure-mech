@@ -1,6 +1,7 @@
 import json
 
-with open('server/command_mapping.json', 'r', encoding='utf-8') as f:
+with open('command_mapping.json', 'r', encoding='utf-8') as f:
+
     command_table = json.load(f)
 
 def execute_command(command):

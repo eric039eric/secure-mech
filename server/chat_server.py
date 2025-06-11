@@ -1,3 +1,7 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'crypto')))
+
 import socket
 import threading
 from crypto_helper import encrypt_message, decrypt_message
