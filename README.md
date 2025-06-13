@@ -78,6 +78,10 @@ python chat_client.py
 
 ---
 
+##  Youtube 影片
+
+-[![觀看作品展示:初步階段](https://youtu.be/X-v8Dgv6xu8?si=GNeCzECrX_zgcUre)
+
 ## 👨‍💻 作者資訊
 
 - 📛 作者：士弘 @eric039eric
